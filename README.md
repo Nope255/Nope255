@@ -1,5 +1,3 @@
-
-<!-- Profile README - by Nope255 -->
 <div align="center">
   <img src="https://i.pinimg.com/originals/68/59/86/685986758e01fdfbc49cfe882397ef0c.gif" width="120" alt="cat gif"/>
   <h1>🐾 Welcome to Nope255's Profile 🐾</h1>
