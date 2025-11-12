@@ -1,6 +1,7 @@
+
 <div align="center">
-  <img src="https://i.pinimg.com/originals/68/59/86/685986758e01fdfbc49cfe882397ef0c.gif" width="120" alt="cat gif"/>
-  <h1>🐾 Welcome to Nope255's Profile 🐾</h1>
+  <img src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" width="200" alt="cat gif"/>
+  <h1> Welcome to Nope255's Profile 💤 </h1>
   <p>Curious Developer | Code, Coffee, and Cats ☕🐱</p>
 </div>
 
@@ -29,7 +30,8 @@
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/68/59/86/685986758e01fdfbc49cfe882397ef0c.gif" width="300" alt="cute cat coding gif"/>
+  <img src="https://giffiles.alphacoders.com/424/4244.gif" width="130" alt="cute cat coding gif"/>
+  <img src="https://i.pinimg.com/originals/e8/d0/f1/e8d0f1794e2520ac2367c1d21c0966e9.gif" width="70" alt="cat gif"/>
 </div>
 
 ---
@@ -63,9 +65,9 @@
 
 ---
 
-##                     Pet🐱🏡
+## Follow me!!
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/424/4244.gif" width="150"/>
+  <img src="https://media.tenor.com/ZURDvrz5D38AAAAM/feliz-cumplea%C3%B1os.gif" width="200"/>
 </div>
 
 ---
@@ -76,6 +78,5 @@
 [![](https://visitcount.itsvg.in/api?id=Nope255&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <p>✨ Thanks for visiting! Have a great day 😸</p>
-<img src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" width="100%" height="2px"/>
+<img src="https://i.pinimg.com/originals/50/68/b6/5068b662893d02b4066f7e1db9a48598.gif" width="20%"/>
 </div>
-
