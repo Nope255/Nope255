@@ -1,16 +1,86 @@
 
-# 💻Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Nope255&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nope255&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nope255&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Nope255&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Profile README - by Nope255 -->
+<div align="center">
+  <img src="https://media.tenor.com/Hg4jUD7qrYMAAAAM/hack-the-planet-hacker-cat.gif" width="120" alt="cat gif"/>
+  <h1>🐾 Welcome to Nope255's Profile 🐾</h1>
+  <p>Curious Developer | Code, Coffee, and Cats ☕🐱</p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nope255&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 👋 About Me
+- 💻 I'm a **part-time developer** who loves experimenting with new tech  
+- 🌱 Currently learning **AI integration & cybersecurity**  
+- 🧩 Interested in **creative, fun, and sometimes absurd coding projects**  
+- 😼 Powered by caffeine and cat memes  
+
+---
+
+## 💻 Tech Stack
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="300" alt="cute cat coding gif"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Nope255&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nope255&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nope255&theme=tokyonight&layout=compact&hide_border=false)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+
+![](https://github-trophies.vercel.app/?username=Nope255&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## ✍️ Random Dev Quote
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🐱 Just for Fun
+<div align="center">
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="150"/>
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Profile Views
+[![](https://visitcount.itsvg.in/api?id=Nope255&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+<p>✨ Thanks for visiting! Have a great day 😸</p>
+<img src="https://media.tenor.com/Hg4jUD7qrYMAAAAM/hack-the-planet-hacker-cat.gif" width="100"/>
+
+</div>
+
