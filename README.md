@@ -1,7 +1,7 @@
 
 <!-- Profile README - by Nope255 -->
 <div align="center">
-  <img src="https://media.tenor.com/Hg4jUD7qrYMAAAAM/hack-the-planet-hacker-cat.gif" width="120" alt="cat gif"/>
+  <img src="https://i.pinimg.com/originals/68/59/86/685986758e01fdfbc49cfe882397ef0c.gif" width="120" alt="cat gif"/>
   <h1>🐾 Welcome to Nope255's Profile 🐾</h1>
   <p>Curious Developer | Code, Coffee, and Cats ☕🐱</p>
 </div>
@@ -65,10 +65,9 @@
 
 ---
 
-## Anime girl
+## Pet🐱
 <div align="center">
-  <img src="https://media.tenor.com/sWUh_zadjf8AAAAM/yama-no-susume-yukimura-aoi.gif" width="150"/>
-  <img src="https://media.tenor.com/b-xhltuOrEYAAAAM/anime-dance-kawaii-dance.gif" width="150"/>
+  <img src="https://giffiles.alphacoders.com/424/4244.gif" width="250"/>
 </div>
 
 ---
@@ -79,7 +78,7 @@
 [![](https://visitcount.itsvg.in/api?id=Nope255&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <p>✨ Thanks for visiting! Have a great day 😸</p>
-<img src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" width="100000"/>
+<img src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" width="1000"/>
 
 </div>
 
