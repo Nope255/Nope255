@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="200" alt="cat gif"/>
+  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" alt="cat gif"/>
   <h1> Welcome to Nope255's Profile 💤 </h1>
   <p>Curious Developer | Code, tea and cat ☕🐱</p>
 </div>
