@@ -65,11 +65,11 @@
 
 ---
 
-## 🐱 Just for Fun
+## Anime girl
 <div align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="150"/>
+  <img src="https://media.tenor.com/sWUh_zadjf8AAAAM/yama-no-susume-yukimura-aoi.gif" width="150"/>
+  <img src="https://media.tenor.com/b-xhltuOrEYAAAAM/anime-dance-kawaii-dance.gif" width="150"/>
+  <img src="https://i.pinimg.com/originals/d5/57/c5/d557c521cbc1e9b8e6c46e0c13649f3c.gif" width="150"/>
 </div>
 
 ---
@@ -80,7 +80,7 @@
 [![](https://visitcount.itsvg.in/api?id=Nope255&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <p>✨ Thanks for visiting! Have a great day 😸</p>
-<img src="https://media.tenor.com/Hg4jUD7qrYMAAAAM/hack-the-planet-hacker-cat.gif" width="100"/>
+<img src="https://miro.medium.com/1*gIfSlbuLrRvA3Jvzg7DfMA.gif" width="100"/>
 
 </div>
 
