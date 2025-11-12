@@ -80,7 +80,7 @@
 [![](https://visitcount.itsvg.in/api?id=Nope255&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <p>✨ Thanks for visiting! Have a great day 😸</p>
-<img src="https://miro.medium.com/1*gIfSlbuLrRvA3Jvzg7DfMA.gif" width="100"/>
+<img src="https://miro.medium.com/1*gIfSlbuLrRvA3Jvzg7DfMA.gif" width="100000"/>
 
 </div>
 
