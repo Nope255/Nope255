@@ -31,7 +31,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="300" alt="cute cat coding gif"/>
+  <img src="https://i.pinimg.com/originals/68/59/86/685986758e01fdfbc49cfe882397ef0c.gif" width="300" alt="cute cat coding gif"/>
 </div>
 
 ---
@@ -67,7 +67,7 @@
 
 ## Pet🐱
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/424/4244.gif" width="250"/>
+  <img src="https://giffiles.alphacoders.com/424/4244.gif" width="150"/>
 </div>
 
 ---
@@ -78,7 +78,7 @@
 [![](https://visitcount.itsvg.in/api?id=Nope255&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <p>✨ Thanks for visiting! Have a great day 😸</p>
-<img src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" width="300"/>
+<img src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" width="100%"/>
 
 </div>
 
