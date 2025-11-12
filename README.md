@@ -1,8 +1,8 @@
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" width="200" alt="cat gif"/>
+  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="200" alt="cat gif"/>
   <h1> Welcome to Nope255's Profile 💤 </h1>
-  <p>Curious Developer | Code, Coffee, and Cats ☕🐱</p>
+  <p>Curious Developer | Code, tea and cat ☕🐱</p>
 </div>
 
 ---
@@ -65,12 +65,6 @@
 
 ---
 
-## Follow me!!
-<div align="center">
-  <img src="https://media.tenor.com/ZURDvrz5D38AAAAM/feliz-cumplea%C3%B1os.gif" width="200"/>
-</div>
-
----
 
 <div align="center">
 
@@ -78,5 +72,5 @@
 [![](https://visitcount.itsvg.in/api?id=Nope255&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <p>✨ Thanks for visiting! Have a great day 😸</p>
-<img src="https://i.pinimg.com/originals/50/68/b6/5068b662893d02b4066f7e1db9a48598.gif" width="20%"/>
+<img src="https://media.tenor.com/ipuTozw3PXsAAAAj/pixel-cat.gif" width="20%"/>
 </div>
