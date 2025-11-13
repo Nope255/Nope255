@@ -13,18 +13,18 @@
 - Vai trò: Lập trình viên part-time / Học sinh THPT
 - Kinh nghiệm: 2 năm tự học và phát triển dự án cá nhân
 
-Lĩnh vực quan tâm:
+## Lĩnh vực quan tâm:
 - Trí tuệ nhân tạo (AI)
 - An ninh mạng (Cybersecurity)
 - Phát triển phần mềm
 - Các dự án khắm bựa, no target
 
-Skill:
+## Skill:
 - Ngôn ngữ: Java, JavaScript, Python, Nodejs, C++
 - Công cụ: Visual Studio Code, GitHub...
 - Khả năng: Tư duy logic, tự học, giải quyết thực tiễn
 
-Sở thích:
+## Sở thích:
 - ☕ Uống Trà
 - 📺 Xem phim Korean love
 - 🎮 Chơi game horror
