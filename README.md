@@ -1,19 +1,41 @@
 
 <div align="center">
-  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" alt="cat gif"/>
+  <img src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" width="150" alt="cat gif"/>
   <h1> Welcome to Nope255's Profile 💤 </h1>
-  <p>Curious Developer | Code, tea and cat 🍵🐱</p>
+  <p> Dream of drinking all kinds of tea and attracting all kinds of cats! 🍵🐱</p>
 </div>
 
----
 
 ## 👋 About Me
-- 💻 I'm a **part-time developer** who loves experimenting with new tech  
-- 🌱 Currently learning **AI integration & cybersecurity**  
-- 🧩 Interested in **creative, fun, and sometimes absurd coding projects**  
-- 😼 Powered by caffeine and cat memes  
+- Tên: Võ Lộc Gia Thành
+- Tuổi: 17
+- Quốc tịch: Việt Nam
+- Vai trò: Lập trình viên part-time / Học sinh THPT
+- Kinh nghiệm: 2 năm tự học và phát triển dự án cá nhân
 
----
+Lĩnh vực quan tâm:
+- Trí tuệ nhân tạo (AI)
+- An ninh mạng (Cybersecurity)
+- Phát triển phần mềm
+- Các dự án khắm bựa, no target
+
+Skill:
+- Ngôn ngữ: JavaScript, Python, HTML/CSS, Nodejs
+- Công cụ: Visual Studio Code, GitHub, Node.js
+- Khả năng: Tư duy logic, tự học, giải quyết thực tiễn
+
+Sở thích:
+- ☕ Uống Trà
+- 📺 Xem phim Korean love
+- 🎮 Chơi game horror
+- 💡 Tạo chat bot tool vớ vẩn mà hữu ích (hoặc không 🐧)
+- 📈 nghiên cứu thị trường quốc tế
+
+<div align="center">
+  <img src="https://giffiles.alphacoders.com/424/4244.gif" width="120" alt="cute cat coding gif"/>
+  <img src="https://i.pinimg.com/originals/44/72/66/447266173c1a71da872660fe46fcfdba.gif" width="90" alt="cat gif"/>
+  <img src="https://media.tenor.com/XHZd187xd7YAAAAj/cat.gif" width="110" alt="catcoding gif"/>
+</div>
 
 ## 💻 Tech Stack
 <div align="center">
@@ -25,13 +47,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://giffiles.alphacoders.com/424/4244.gif" width="130" alt="cute cat coding gif"/>
-  <img src="https://i.pinimg.com/originals/e8/d0/f1/e8d0f1794e2520ac2367c1d21c0966e9.gif" width="70" alt="cat gif"/>
 </div>
 
 ---
@@ -71,6 +86,6 @@
 ### 🌐 Profile Views
 [![](https://visitcount.itsvg.in/api?id=Nope255&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-<p>✨ Thanks for visiting! Have a great day 😸</p>
-<img src="https://media.tenor.com/ipuTozw3PXsAAAAj/pixel-cat.gif" width="20%"/>
+<p>✨ Thanks! Bye, See you again! 🏆</p>
+<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="10%"/>
 </div>
