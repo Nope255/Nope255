@@ -20,8 +20,8 @@ Lĩnh vực quan tâm:
 - Các dự án khắm bựa, no target
 
 Skill:
-- Ngôn ngữ: JavaScript, Python, HTML/CSS, Nodejs
-- Công cụ: Visual Studio Code, GitHub, Node.js
+- Ngôn ngữ: Java, JavaScript, Python, Nodejs, C++
+- Công cụ: Visual Studio Code, GitHub...
 - Khả năng: Tư duy logic, tự học, giải quyết thực tiễn
 
 Sở thích:
