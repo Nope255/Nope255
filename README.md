@@ -29,7 +29,7 @@
 - 📺 Xem phim Korean love
 - 🎮 Chơi game horror
 - 💡 Tạo chat bot tool vớ vẩn mà hữu ích (hoặc không 🐧)
-- 📈 nghiên cứu thị trường quốc tế
+- 📈 nghiên cứu thị trường chứng khoán
 
 <div align="center">
   <img src="https://giffiles.alphacoders.com/424/4244.gif" width="120" alt="cute cat coding gif"/>
