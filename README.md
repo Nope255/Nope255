@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" width="150" alt="cat gif"/>
+  <img src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" width="160" alt="cat gif"/>
   <h1> Welcome to Nope255's Profile 💤 </h1>
   <p> Dream of drinking all kinds of tea and attracting all kinds of cats! 🍵🐱</p>
 </div>
@@ -32,9 +32,9 @@
 - 📈 nghiên cứu thị trường chứng khoán
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/424/4244.gif" width="120" alt="cute cat coding gif"/>
-  <img src="https://i.pinimg.com/originals/44/72/66/447266173c1a71da872660fe46fcfdba.gif" width="90" alt="cat gif"/>
-  <img src="https://media.tenor.com/XHZd187xd7YAAAAj/cat.gif" width="110" alt="catcoding gif"/>
+  <img src="https://giffiles.alphacoders.com/424/4244.gif" width="110" alt="cute cat coding gif"/>
+  <img src="https://i.pinimg.com/originals/44/72/66/447266173c1a71da872660fe46fcfdba.gif" width="70" alt="cat gif"/>
+  <img src="https://media.tenor.com/XHZd187xd7YAAAAj/cat.gif" width="90" alt="catcoding gif"/>
 </div>
 
 ## 💻 Tech Stack
@@ -87,5 +87,5 @@
 [![](https://visitcount.itsvg.in/api?id=Nope255&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <p>✨ Thanks! Bye, See you again! 🏆</p>
-<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="10%"/>
+<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="20%"/>
 </div>
