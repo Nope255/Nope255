@@ -17,19 +17,19 @@
 - Trí tuệ nhân tạo (AI)
 - An ninh mạng (Cybersecurity)
 - Phát triển phần mềm
-- Các dự án khắm bựa, no target
+- Các dự án khắm bựa, không mục tiêu
 
 ## Skill:
 - Ngôn ngữ: Java, JavaScript, Python, Nodejs, C++
-- Công cụ: Visual Studio Code, GitHub...
-- Khả năng: Tư duy logic, tự học, giải quyết thực tiễn
+- Công cụ: Visual Studio Code, Window Terminal...
+- Khả năng: Tư duy logic, tự học, giải quyết vấn đề chuyên nghiệp... 
 
 ## Sở thích:
-- ☕ Uống Trà
-- 📺 Xem phim Korean love
-- 🎮 Chơi game horror
-- 💡 Tạo chat bot tool vớ vẩn mà hữu ích (hoặc không 🐧)
-- 📈 nghiên cứu thị trường chứng khoán
+- ☕ Uống Trà gừng
+- 📺 Xem phim hàn
+- 🎮 Chơi FC online 😋
+- 💡 Tạo chat bot, tool, project cá nhân
+- 📈 tìm hiểu về lãi suất kép, nghiên cứu thị trường...
 
 <div align="center">
   <img src="https://giffiles.alphacoders.com/424/4244.gif" width="110" alt="cute cat coding gif"/>
