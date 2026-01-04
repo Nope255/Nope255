@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" width="160" alt="cat gif"/>
   <h1> Welcome to Nope255's Profile 💤 </h1>
-  <p> Dream of drinking all kinds of tea and attracting all kinds of cats! 🍵🐱</p>
+  <p> 🍵🐱</p>
 </div>
 
 
