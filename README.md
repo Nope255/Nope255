@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/56/23/41/56234198dda6353f665eedce8c0a7127.gif" width="230" alt="star"/>
-  <h1> Welcome to Nope255's Profile 💤 </h1>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyb2JmY21jM3B4cm9vZTR2NXVnenpwZXJ0NDZwZ2U5MDNvYXlrbGZ1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3978y5HqiEtqupiM/source.gif" width="250" alt="star"/>
+  <h1> Welcome to me Profile 💤 </h1>
   <p> 🌌🌠</p>
 </div>
 
@@ -34,7 +34,7 @@
 * 📈 Learning about compound interest and market research
 
 <div align="center">
-  <img src="https://opengameart.org/sites/default/files/robot-idle.gif" width="130" alt="cute cat coding gif"/>
+  <img src="https://i.pinimg.com/originals/1e/85/d8/1e85d85797303b24c110f39e72ce3de2.gif" width="150" alt="cute cat coding gif"/>
 </div>
 
 ## Tech Stack
@@ -91,4 +91,4 @@
 [![](https://visitcount.itsvg.in/api?id=Nope255\&label=Profile%20Views\&color=6\&icon=0\&pretty=true)](https://visitcount.itsvg.in)
 
 <p>✨ Thanks! Bye, see you again! 🏆</p>
-<img src="https://github.gith
+<img src="https://www.stemifi.com/_next/image?url=%2Fimages%2Floading.gif&w=640&q=75"
