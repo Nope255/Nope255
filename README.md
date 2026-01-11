@@ -1,10 +1,8 @@
-```html
 <div align="center">
   <img src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" width="160" alt="cat gif"/>
   <h1> Welcome to Nope255's Profile 💤 </h1>
   <p> 🍵🐱</p>
 </div>
-```
 
 ## 👋 About Me
 
@@ -35,13 +33,11 @@
 * 💡 Creating chatbots, tools, and personal projects
 * 📈 Learning about compound interest and market research
 
-```html
 <div align="center">
   <img src="https://giffiles.alphacoders.com/424/4244.gif" width="110" alt="cute cat coding gif"/>
   <img src="https://i.pinimg.com/originals/44/72/66/447266173c1a71da872660fe46fcfdba.gif" width="70" alt="cat gif"/>
   <img src="https://media.tenor.com/XHZd187xd7YAAAAj/cat.gif" width="90" alt="catcoding gif"/>
 </div>
-```
 
 ## 💻 Tech Stack
 
