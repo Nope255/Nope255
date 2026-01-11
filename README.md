@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" width="160" alt="cat gif"/>
+  <img src="https://i.pinimg.com/originals/cc/49/19/cc491940d9554330384100f6b27b883b.gif" width="160" alt="star"/>
   <h1> Welcome to Nope255's Profile 💤 </h1>
-  <p> 🍵🐱</p>
+  <p> 🌌🌠</p>
 </div>
 
-## 👋 About Me
+## About Me
 
 * Name: Võ Lộc Gia Thành
 * Age: 17
@@ -39,7 +39,7 @@
   <img src="https://media.tenor.com/XHZd187xd7YAAAAj/cat.gif" width="90" alt="catcoding gif"/>
 </div>
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
