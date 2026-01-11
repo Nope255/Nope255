@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/cc/49/19/cc491940d9554330384100f6b27b883b.gif" width="160" alt="star"/>
+  <img src="https://i.pinimg.com/originals/56/23/41/56234198dda6353f665eedce8c0a7127.gif" width="230" alt="star"/>
   <h1> Welcome to Nope255's Profile 💤 </h1>
   <p> 🌌🌠</p>
 </div>
@@ -34,9 +34,7 @@
 * 📈 Learning about compound interest and market research
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/424/4244.gif" width="110" alt="cute cat coding gif"/>
-  <img src="https://i.pinimg.com/originals/44/72/66/447266173c1a71da872660fe46fcfdba.gif" width="70" alt="cat gif"/>
-  <img src="https://media.tenor.com/XHZd187xd7YAAAAj/cat.gif" width="90" alt="catcoding gif"/>
+  <img src="https://opengameart.org/sites/default/files/robot-idle.gif" width="130" alt="cute cat coding gif"/>
 </div>
 
 ## Tech Stack
