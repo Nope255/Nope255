@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/34/66/75/346675de07fd7103b1534b99ee2a3eef.jpg" width="750" alt="star"/>
+  <img src="https://i.pinimg.com/736x/db/04/48/db04485fc746ae5fe17e91142778b032.jpg" width="750" alt="star"/>
   <h1> Welcome to me Profile 💤 </h1>
   <p> 🌌🌠</p>
 </div>
