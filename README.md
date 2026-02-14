@@ -1,41 +1,32 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/db/04/48/db04485fc746ae5fe17e91142778b032.jpg" width="750" alt="star"/>
-  <h1> Welcome to me Profile 💤 </h1>
-  <p> 🌌🌠</p>
+  <img src="https://i.pinimg.com/1200x/63/39/61/6339616f0ecaaf224656c008d4e446b8.jpg" width="750" alt="star"/>
 </div>
 
-## About Me
 
-* Name: Võ Lộc Gia Thành
-* Age: 17
-* Nationality: Vietnamese
-* Role: Part-time Developer / High School Student
-* Experience: 2 years of self-learning and personal project development
 
-## Fields of Interest:
+## 
 
-* Artificial Intelligence (AI)
-* Cybersecurity
-* Software Development
-* Absurd, random projects with no clear purpose
+<img src="https://media.tenor.com/a2m-Y3dLmD0AAAAj/mona-github-loading-github.gif"
+     width="90"
+     align="left"
+     style="margin-right:25px; margin-top:5px;" />
 
-## Skills:
+<p align="justify">
+Life, as portrayed in Walden and Meditations,
+teaches that simplicity and restraint cultivate inner strength,
+while Man’s Search for Meaning reminds us that suffering,
+though inevitable, can be transformed into purposeful endurance.
+In Atomic Habits, progress is described not as a miracle,
+but as the quiet accumulation of disciplined daily actions,
+suggesting that greatness is rarely sudden or accidental.
+Together, these works imply that clarity emerges from solitude,
+resilience is forged through adversity, and fulfillment arises
+when intention consistently governs choice rather than impulse.
 
-* Languages: Java, JavaScript, Python, Node.js, C++
-* Tools: Visual Studio Code, Windows Terminal...
-* Strengths: Logical thinking, self-learning, professional problem-solving
+<br clear="left"/>
 
-## Hobbies:
 
-* ☕ Drinking ginger tea
-* 📺 Watching Korean dramas
-* 🎮 Playing FC Online 😋
-* 💡 Creating chatbots, tools, and personal projects
-* 📈 Learning about compound interest and market research
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/1e/85/d8/1e85d85797303b24c110f39e72ce3de2.gif" width="150" alt="cute cat coding gif"/>
-</div>
 
 ## Tech Stack
 
@@ -45,7 +36,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 
 </div>
@@ -85,10 +75,5 @@
 ---
 
 <div align="center">
-
-### 🌐 Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=Nope255\&label=Profile%20Views\&color=6\&icon=0\&pretty=true)](https://visitcount.itsvg.in)
-
 <p>✨ Thanks! Bye, see you again! 🏆</p>
 <img src="https://www.stemifi.com/_next/image?url=%2Fimages%2Floading.gif&w=640&q=75"
