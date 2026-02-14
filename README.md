@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyb2JmY21jM3B4cm9vZTR2NXVnenpwZXJ0NDZwZ2U5MDNvYXlrbGZ1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3978y5HqiEtqupiM/source.gif" width="250" alt="star"/>
+  <img src="https://i.pinimg.com/1200x/34/66/75/346675de07fd7103b1534b99ee2a3eef.jpg" width="750" alt="star"/>
   <h1> Welcome to me Profile 💤 </h1>
   <p> 🌌🌠</p>
 </div>
