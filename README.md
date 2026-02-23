@@ -57,13 +57,10 @@ hello i'm nova, nickname vexnova, i make dev parttime
 
 ---
 
-<h2 align="center">Random Dev Quote</h2>
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+<h2 align="center" style="color:white;">
+寒风刺骨，城边桃花盛开，
+孤身独影，傲立世间，光明磊落。
+</h2>
 
 ---
 
