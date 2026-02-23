@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/08/af/22/08af22c8819ac35e7c0319b5f33b97f7.jpg" width="750" alt="star"/>
+ <img src="https://i.pinimg.com/1200x/08/af/22/08af22c8819ac35e7c0319b5f33b97f7.jpg" width="100%" style="min-width:900px;" alt="star"/>
 </div>
 
 <br>
@@ -20,11 +20,11 @@ hello i'm nova, nickname vexnova, i make dev parttime
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-2E3F5C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-2E3F5C?style=flat-square&logo=c-sharp&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-2E3F5C?style=flat-square&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2E3F5C?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2E3F5C?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=FFFFFF)
+![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=c-sharp&logoColor=FFFFFF)
+![NodeJS](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFFFFF)
 
 
 
@@ -36,11 +36,9 @@ hello i'm nova, nickname vexnova, i make dev parttime
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Nope255&bg_color=2E3F5C&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&number_color=FFFFFF&border_color=2E3F5C&show_icons=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nope255&background=2E3F5C&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&border=2E3F5C)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nope255&bg_color=2E3F5C&title_color=FFFFFF&text_color=FFFFFF&border_color=2E3F5C&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Nope255&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&number_color=FFFFFF&border_color=000000&show_icons=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nope255&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&border=000000)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nope255&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=000000&layout=compact)
 
 
 
@@ -53,7 +51,7 @@ hello i'm nova, nickname vexnova, i make dev parttime
 
 <div align="center">
 
-![](https://github-trophies.vercel.app/?username=Nope255&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=Nope255&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
