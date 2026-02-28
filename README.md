@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://media.tenor.com/a2m-Y3dLmD0AAAAj/mona-github-loading-github.gif"
-       width="130"/>
+       width="120"/>
 </p>
 
 <br clear="left"/>
