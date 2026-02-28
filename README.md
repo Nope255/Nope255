@@ -2,15 +2,13 @@
  <img src="https://i.pinimg.com/1200x/08/af/22/08af22c8819ac35e7c0319b5f33b97f7.jpg" width="100%" style="min-width:900px;" alt="star"/>
 </div>
 
-<br>
+<div align="center">
 
-<img src="https://media.tenor.com/a2m-Y3dLmD0AAAAj/mona-github-loading-github.gif"
-     width="90"
-     align="left"
-     style="margin-right:25px; margin-top:5px;" />
+<div style="width:70%; text-align:left;">
 
-<p align="justify">
-hello i'm nova, nickname vexnova, i make dev parttime 
+<p align="center">
+  <img src="https://media.tenor.com/a2m-Y3dLmD0AAAAj/mona-github-loading-github.gif"
+       width="130"/>
 </p>
 
 <br clear="left"/>
@@ -28,7 +26,6 @@ hello i'm nova, nickname vexnova, i make dev parttime
 
 </div>
 
----
 
 <h2 align="center">GitHub Stats</h2>
 
@@ -43,7 +40,6 @@ hello i'm nova, nickname vexnova, i make dev parttime
 
 </div>
 
----
 
 <h2 align="center">GitHub Trophies</h2>
 
@@ -53,7 +49,6 @@ hello i'm nova, nickname vexnova, i make dev parttime
 
 </div>
 
----
 
 <h2 align="center" style="color:white;">
 寒风刺骨，城边桃花盛开，
