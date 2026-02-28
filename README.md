@@ -20,13 +20,11 @@ hello i'm nova, nickname vexnova, i make dev parttime
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=FFFFFF)
-![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=c-sharp&logoColor=FFFFFF)
-![NodeJS](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFFFFF)
-
-
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=FFFFFF)
+![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
 
 </div>
 
