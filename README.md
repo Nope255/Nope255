@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.tenor.com/a2m-Y3dLmD0AAAAj/mona-github-loading-github.gif"
+  <img src="https://media.tenor.com/TS7aSPWwXJ4AAAAj/capoo-waiting.gif"
        width="120"/>
 </p>
 
@@ -41,11 +41,6 @@
 
 </div>
 
-<h2 align="center">🎵 Theme Song</h2>
-
-<p align="center">
-  <audio controls>
-    <source src="./Lụy Tình.mp3" type="audio/mpeg">
   </audio>
 </p>
 
