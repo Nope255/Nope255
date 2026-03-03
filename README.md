@@ -1,18 +1,13 @@
 <div align="center">
- <img src="https://i.pinimg.com/1200x/08/af/22/08af22c8819ac35e7c0319b5f33b97f7.jpg" width="100%" style="min-width:900px;" alt="star"/>
+  <img src="https://i.pinimg.com/1200x/08/af/22/08af22c8819ac35e7c0319b5f33b97f7.jpg"
+       width="100%"
+       alt="star"/>
 </div>
-
-<div align="center">
-
-<div style="width:70%; text-align:left;">
 
 <p align="center">
   <img src="https://media.tenor.com/a2m-Y3dLmD0AAAAj/mona-github-loading-github.gif"
        width="120"/>
 </p>
-
-<br clear="left"/>
-
 
 <h2 align="center">Tech Stack</h2>
 
@@ -26,20 +21,17 @@
 
 </div>
 
-
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Nope255&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&number_color=FFFFFF&border_color=000000&show_icons=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Nope255&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=000000&show_icons=true&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nope255&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&border=000000)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nope255&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=000000&layout=compact)
 
-
-
-
 </div>
-
 
 <h2 align="center">GitHub Trophies</h2>
 
@@ -49,13 +41,15 @@
 
 </div>
 
+<h2 align="center">🎵 Theme Song</h2>
 
-<h2 align="center" style="color:white;">
-寒风刺骨，城边桃花盛开，
+<p align="center">
+  <audio controls>
+    <source src="https://raw.github.com/Nope255/Nope255/main/DON'T LET GO - Hngle ft. Ari _ Piano Cover _ Hoang Green x Aric.mp3" type="audio/mpeg">
+  </audio>
+</p>
+
+<h2 align="center">
+寒风刺骨，城边桃花盛开，<br>
 孤身独影，傲立世间，光明磊落。
 </h2>
-
----
-
-<div align="center">
-</div>
