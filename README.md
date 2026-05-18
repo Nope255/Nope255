@@ -6,10 +6,10 @@
 
 <p align="center">
   <img src="https://media.tenor.com/TS7aSPWwXJ4AAAAj/capoo-waiting.gif"
-       width="120"/>
+       width="140"/>
 </p>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">T E C H S T A S C K</h2>
 
 <div align="center">
 
@@ -32,19 +32,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nope255&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=000000&layout=compact)
 
 </div>
-
-<h2 align="center">GitHub Trophies</h2>
-
-<div align="center">
-
-![](https://github-trophies.vercel.app/?username=Nope255&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
-  </audio>
-</p>
-
-<h2 align="center">
-寒风刺骨，城边桃花盛开，<br>
-孤身独影，傲立世间，光明磊落。
-</h2>
