@@ -25,10 +25,6 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Nope255&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=000000&show_icons=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nope255&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&border=000000)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nope255&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=000000&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nope255&theme=graywhite&hide_border=&short_numbers=&date_format=j%2Fn%5B%2FY%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 </div>
