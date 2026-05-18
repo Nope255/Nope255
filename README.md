@@ -9,19 +9,25 @@
        width="140"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nope255&color=lightgrey&style=for-the-badge"/>
+</p>
+
+
 <h2 align="center">T E C H S T A S C K</h2>
+
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=FFFFFF)
-![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="50"/>
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=FFFFFF" height="50"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FFFFFF" height="50"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" height="50"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" height="50"/>
 
 </div>
 
-<h2 align="center">G I T H U B S T A T S</h2>
+<h2 align="center">G I T H U B  S T A T S</h2>
 
 <div align="center">
 
