@@ -4,19 +4,19 @@
        alt="star"/>
 
 
+</div>
+
+<p align="center">
+  <img src="https://media.tenor.com/TS7aSPWwXJ4AAAAj/capoo-waiting.gif"
+       width="140"/>
+
+
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nope255&color=lightgrey&style=for-the-badge"/>
 </p>
 
-
-
-</div>
-
-<p align="center">
-  <img src="https://media.tenor.com/TS7aSPWwXJ4AAAAj/capoo-waiting.gif"
-       width="140"/>
 
 <h2 align="center">T E C H S T A S C K</h2>
 
