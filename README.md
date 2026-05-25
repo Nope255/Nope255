@@ -2,17 +2,21 @@
   <img src="https://i.pinimg.com/1200x/08/af/22/08af22c8819ac35e7c0319b5f33b97f7.jpg"
        width="100%"
        alt="star"/>
-</div>
 
-<p align="center">
-  <img src="https://media.tenor.com/TS7aSPWwXJ4AAAAj/capoo-waiting.gif"
-       width="140"/>
+
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nope255&color=lightgrey&style=for-the-badge"/>
 </p>
 
+
+
+</div>
+
+<p align="center">
+  <img src="https://media.tenor.com/TS7aSPWwXJ4AAAAj/capoo-waiting.gif"
+       width="140"/>
 
 <h2 align="center">T E C H S T A S C K</h2>
 
