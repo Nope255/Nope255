@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://pin.it/5RdeGdqwd"
+  <img src="https://i.pinimg.com/1200x/f1/9e/76/f19e769c9e60d415de1e037616aa099d.jpg"
        width="100%"
-       alt="star"/>
+       alt="sea"/>
 
 
 </div>
