@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.tenor.com/TS7aSPWwXJ4AAAAj/capoo-waiting.gif"
+  <img src="https://media.tenor.com/a2m-Y3dLmD0AAAAj/mona-github-loading-github.gif"
        width="140"/>
 
 
