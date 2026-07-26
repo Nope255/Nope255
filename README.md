@@ -1,4 +1,4 @@
-d<div align="center">
+<div align="center">
   <img src="https://i.pinimg.com/1200x/13/57/19/1357192ba4b98f814c0c90a6bcf06d3f.jpg"
        width="90%"
        alt="star"/>
